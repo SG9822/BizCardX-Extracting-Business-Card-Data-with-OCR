@@ -12,7 +12,6 @@ BizCardX is an innovative application designed to simplify and streamline the pr
   - [Dataframe Page](#dataframe-page)
   - [Update/Delete Page](#update/delete-page)
   - [About Page](#about-page)
-- [Feedback and Support](#feedback-and-support)
 - [Acknowledgments](#acknowledgments)
 
 ## Objective
@@ -42,6 +41,10 @@ The Dataframe page displays a comprehensive view of the data stored in the MySQL
 ### Update/Delete Page
 
 The Update/Delete page offers users the flexibility to modify or remove specific business card entries. Users can choose between updating details or deleting entire entries based on their preferences. Radio buttons facilitate a user-friendly selection process.
+
+### Acknowledgements
+
+ - Thanks for EasyOCR for easy text extreaction.
 
 Thank you for Seeing this project. We hope you enjoy the project.
 
